@@ -1,7 +1,3 @@
-# dante-agent
-
-<!-- 조직 소개를 여기에 작성하세요. -->
-
 <img src="https://raw.githubusercontent.com/dante-agent/.github/main/docs/Dante-thumbnail-ko.png" width="100%" alt="Dante" />
 
 <img src="https://raw.githubusercontent.com/dante-agent/.github/main/docs/Dante-recommend.png" width="100%" alt="추천" />
